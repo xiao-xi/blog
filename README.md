@@ -1,4 +1,4 @@
-#利用sails和mongodb开发博客系统Demo
+# 利用sails和mongodb开发博客系统Demo
 
 ## Get Started
 
